@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_vili.mk
+    $(LOCAL_DIR)/yaap_vili.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_vili-user \
-    derp_vili-userdebug \
-    derp_vili-eng
+    yaap_vili-user \
+    yaap_vili-userdebug \
+    yaap_vili-eng
