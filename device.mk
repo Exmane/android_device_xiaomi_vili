@@ -27,7 +27,7 @@ $(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-derp
+    $(LOCAL_PATH)/overlay-yaap
 
 # Overlays-RRO
 PRODUCT_PACKAGES += \
